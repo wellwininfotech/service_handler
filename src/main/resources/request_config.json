@@ -1,0 +1,22 @@
+{
+	"Service1": [
+		"id",
+		"serviceName"
+	],
+	"Service2": [
+		"id",
+		"name",
+		"serviceName"
+	],
+	"Service3": [
+		"id",
+		"address",
+		"serviceName"
+	],
+	"Service4": [
+		"id",
+		"account",
+		"account",
+		"serviceName"
+	]
+}
